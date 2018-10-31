@@ -1,3 +1,8 @@
 <resources>
+    <string name="pull_to_load_pull_label">上拉加载…</string>
+    <string name="pull_to_load_release_label">放开以加载…</string>
 
+    <string name="pull_to_refresh_pull_label">下拉刷新…</string>
+    <string name="pull_to_refresh_release_label">放开以刷新…</string>
+    <string name="pull_to_refresh_refreshing_label">正在载入…</string>
 </resources>
