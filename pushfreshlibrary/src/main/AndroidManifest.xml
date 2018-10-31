@@ -2,7 +2,7 @@
 
     package="com.klcxkj.pushfreshlibrary">
 
-    <application android:allowBackup="true" 
+    <application android:allowBackup="true"
         android:supportsRtl="true">
 
     </application>
